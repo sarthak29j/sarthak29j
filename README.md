@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @sarthak29j
-- 👀 I’m interested in Computer programming
+- 👋🏻 Hi, I’m Sarthak Chawla
+- 👀 I did my final year internship at Samsung and I'm currently in my last semester of bachelor's degree.
 - 🌱 I’m currently learning Bigdata
 - 💞️ I’m looking to collaborate on any open source project
 - 📫 Connect with me through email
