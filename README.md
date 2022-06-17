@@ -1,6 +1,6 @@
 - 👋🏻 Hi, I’m Sarthak Chawla
 - 💞️ I’m looking to collaborate on any open source project
-- 📫 Connect with me through email or linkdin
+- 📫 Connect with me through e-mail or LinkedIn
 
 Email - sarthak29j@gmail.com
 
