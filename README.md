@@ -1,5 +1,5 @@
 - 👋🏻 Hi, I’m Sarthak Chawla
-- 💞️ I’m looking to collaborate on any open source project
+- 🏢 I’m working at Amazon as a Business Intelligence Engineer
 - 📫 Connect with me through e-mail or LinkedIn
 
 Email - sarthak29j@gmail.com
