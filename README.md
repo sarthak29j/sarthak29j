@@ -1,5 +1,5 @@
 - 👋🏻 Hi, I’m Sarthak Chawla
-- 🏢 I’m working at Amazon as a Business Intelligence Engineer
+- 🏢 I’m a Business Intelligence Engineer at Amazon
 - 📫 Connect with me through e-mail or LinkedIn
 
 Email - sarthak29j@gmail.com
